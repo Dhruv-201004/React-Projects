@@ -26,7 +26,7 @@ A dynamic task manager with full CRUD support.
 - Saves tasks to `localStorage`
 - Tailwind-based animated UI
 
-📷 ![Todo App](assets/Screenshots/todo-app.png)
+📷 ![Todo App](assets/Screenshots/to-do.png)
 
 ---
 
