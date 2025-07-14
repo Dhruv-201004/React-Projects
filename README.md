@@ -8,7 +8,7 @@ Perfect for 🎓 learners, 💼 portfolio builders, or anyone revisiting React a
 
 ## 🛠️ Tech Stack
 
-- ⚛️ **React ** – Component-based architecture  
+- ⚛️ **React** – Component-based architecture  
 - 💡 **TypeScript** – Strong typing and safer logic  
 - 💨 **Tailwind CSS** – Utility-first CSS for clean UIs  
 - 📊 **Recharts** – For data visualization  
